@@ -21,7 +21,7 @@ Wiki page: [M463K](../../../../PAGES/M463K.md)
 - **Words (OCR):** 39 in 36 lines: WBS · M463k · 13 · PRE · PA-€-SA · PRE · PRE · PRE PST · 3.2 6.4 12.8 · KHZ · 21 · MF
 - **Title block:** (153, 0)–(335, 415) mm: WBS · M463k · 13 · PRE · PA-€-SA · PRE · PRE · PRE PST · 3.2 6.4 12.8 · KHZ · 21 · MF · 22) · 50 100 200 · 300 · 23 · PAN · 25 · SUB · MISSUE DATE · REvisION · APP · ON · WBS · WARD-BECK SYSTEMS · M46
 
-Every curve, box, word and wire group: [1974 - M463K - 463-04-015 - ENG SUBMA STER MODULE (traced).json](../MECHANICAL/1974%20-%20M463K%20-%20463-04-015%20-%20ENG%20SUBMA%20STER%20MODULE%20(traced).json) (the CAD file: `1974 - M463K - 463-04-015 - ENG SUBMA STER MODULE (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - 463-04-015 - ENG SUBMA STER MODULE (traced).json](../MECHANICAL/1974%20-%20M463K%20-%20463-04-015%20-%20ENG%20SUBMA%20STER%20MODULE%20%28traced%29.json) (the CAD file: `1974 - M463K - 463-04-015 - ENG SUBMA STER MODULE (traced).dxf`).
 
 ## Full text
 

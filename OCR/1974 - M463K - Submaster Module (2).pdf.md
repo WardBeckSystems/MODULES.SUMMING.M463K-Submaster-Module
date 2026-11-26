@@ -28,7 +28,7 @@ Wiki page: [M463K](../../../../PAGES/M463K.md)
 - **Closed boxes:** 1
 - **Words (OCR):** 17 in 9 lines: ['NelS] T'E1.£x oee- a538lI · WARD-BECK SYSTE MS LTD · ......-.e.~CINT......-o"""'i! · M463K · SUBMAS TER MODULE · ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p1 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p1%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p1 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p1 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p1%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p1 (traced).dxf`).
 
 ### Page 2
 
@@ -38,7 +38,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p1 (
 - **Words (OCR):** 167 in 83 lines: WARo -aeCK SYSTEMS LT · TABL OF CONTENTS · 46 31< INPUT MODULE · W..........nty · Tec · lc · D"ta · N:uit Descrip tion · 2_1 to 2-4 · Eq ual iz er · F~uency Re $pOt\s · 3-110 3_2
 - **Title block:** (83, 37)–(284, 423) mm: WARo -aeCK SYSTEMS LT · TABL OF CONTENTS · 46 31< INPUT MODULE · W..........nty · Tec · lc · D"ta · N:uit Descrip tion · 2_1 to 2-4 · Eq ual iz er · F~uency Re $pOt\s · 3-110 3_2 · ts Li st · 4-1 to ·
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p2 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p2%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p2 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p2 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p2%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p2 (traced).dxf`).
 
 ### Page 3
 
@@ -49,7 +49,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p2 (
 - **Dots (junctions):** 3
 - **Words (OCR):** 198 in 70 lines: WAR -BECK SYST EMS LT · TECHN ICAL DATA. · Frequency Re I'pon se: · 0.25 dB from 20 Hz to 20 kHz. · (Equ"liz er in byp"ss po si tion.) · 70 · _10 dBm nom ln · elow · output le · 120 Hz to · 20 kHZ · Le ss [han
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p3 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p3%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p3 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p3 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p3%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p3 (traced).dxf`).
 
 ### Page 4
 
@@ -60,7 +60,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p3 (
 - **Dots (junctions):** 2
 - **Words (OCR):** 415 in 173 lines: WAR · BE · SYS TEM LT · CIR CU · DESCRIPTION · Th · MA63K is · comb ina tion SUB MASTE R/E QUAL IZ ER mod lr · de si ned · 10 acceP com ne · or mix ed fee ds from prev iou sly "ss igned mixi · h"n ne Inpu ts
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p4 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p4%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p4 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p4 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p4%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p4 (traced).dxf`).
 
 ### Page 5
 
@@ -72,7 +72,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p4 (
 - **Words (OCR):** 420 in 183 lines: WAFlO -BECK SYS TEM · TO · CIRCUIT DeSCRIPTION · M463K SUBMASTER MODULE · The HIGH · REQUENCY secuen · lhe unil prov · SHEL VING TYP of · eQ ll · llon · R21 · lermi ne
 - **Title block:** (51, 250)–(154, 422) mm: WAFlO -BECK SYS TEM · TO · The HIGH · REQUENCY secuen · eQ ll · llon · R21 · lermi ne · Ola · ,.ange from -15 10 ·15 dB. · able from · 10 · 10 · lhe · dB rolloff po inl · vailable CU · BOOST of · Th ·
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p5 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p5%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p5 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p5 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p5%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p5 (traced).dxf`).
 
 ### Page 6
 
@@ -84,7 +84,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p5 (
 - **Dots (junctions):** 2
 - **Words (OCR):** 283 in 123 lines: WA · CK YS TE · LT · IRCU IT DESCRIP TION · PREF DE · ST EN PF · The b,-i dg ng · ak · ff · he PFL ou tpu · is pi · up
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p6 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p6%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p6 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p6 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p6%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p6 (traced).dxf`).
 
 ### Page 7
 
@@ -95,7 +95,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p6 (
 - **Words (OCR):** 239 in 116 lines: WARD-BECK SYSTEMS · LT · IRCU IT DESCR IP ION · Au · ia · Ou tp uts · ti · SOLO · tpu is · av labl · ia SWI6 · to
 - **Title block:** (27, 399)–(136, 422) mm: WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p7 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p7%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p7 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p7 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p7%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p7 (traced).dxf`).
 
 ### Page 8
 
@@ -105,7 +105,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p7 (
 - **Closed boxes:** 140; named: II rr II II; rr; II; II; Iii iii Ii II !li vi 'lll Iii 11\ 1\1I l
 - **Words (OCR):** 64 in 44 lines: WARO 8E · YST EMS LT · FREOUENCY RESPONSE CHARACTER1ST CS · M463K · SUBM ASTER MODULE · II · rr · LOW FREQUENCY · se · on · CUT/ BOOST: IS dB. · II
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p8 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p8%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p8 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p8 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p8%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p8 (traced).dxf`).
 
 ### Page 9
 
@@ -117,7 +117,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p8 (
 - **Dots (junctions):** 4
 - **Words (OCR):** 32 in 19 lines: WARO -BECK SYS TEMS LTO, · FREQUENCY RESPONSE CHARACTERIS TICS · H46}1e SUBHASTER MQQULE · II · III: · .ru · II · 'II · IIIII · se ct on · HIGH FREOUENCY · CUT/BOOS
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p9 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p9%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p9 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p9 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p9%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p9 (traced).dxf`).
 
 ### Page 10
 
@@ -129,7 +129,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p9 (
 - **Dots (junctions):** 1
 - **Words (OCR):** 161 in 108 lines: PARTS · IS · M463K SUBMASTER MODULE · MeG PART NUMBER · llP ll~;IO" · aa uF/ l0 · Ke rne · T390 D336 M010AS · 02 · 220 of · Phjl!p · 222
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p10 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p10%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p10 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p10 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p10%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p10 (traced).dxf`).
 
 ### Page 11
 
@@ -140,7 +140,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p10 
 - **Dots (junctions):** 2
 - **Words (OCR):** 67 in 50 lines: SYS TEMS LT · M46JK SUBMASTER MODULE · Capacitor · 22 uF /25 · B4IJ1J-A522f>-Z · CJ9 · 150 uF · TJ9OE15?M0Q6AS · esc · CO> · 22 uF /2S · ie men
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p11 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p11%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p11 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p11 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p11%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p11 (traced).dxf`).
 
 ### Page 12
 
@@ -150,7 +150,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p11 
 - **Circles and arcs:** 1 circles, 0 arcs; largest r 2.2 @ (113.7, 328.2)
 - **Words (OCR):** 68 in 52 lines: WA · BEC · YSTEM LTD. · ~MASTERMO....Q.I!!& · R9 · te · RIll · R14) · AlB · 1S) · Po tent iom · quad
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p12 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p12%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p12 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p12 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p12%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p12 (traced).dxf`).
 
 ### Page 13
 
@@ -159,7 +159,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p12 
 - **Outlines:** line 402 rings, 3,262 straight (6,115 mm) / 770 curved (1,188 mm); text 352 rings, 2,528 straight (2,921 mm) / 715 curved (1,136 mm)
 - **Words (OCR):** 48 in 34 lines: MFG PART NUMBER · s,~or 1/4 · Ph il ip · sao · 'SO · as · rs · esa · de te le · se · Res; sl or 1/4W · eac
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p13 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p13%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p13 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p13 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p13%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p13 (traced).dxf`).
 
 ### Page 14
 
@@ -171,7 +171,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p13 
 - **Dots (junctions):** 1
 - **Words (OCR):** 83 in 54 lines: AR O·SE CK YSTE · LT · PARTS · iST · ~AST ER MODULE · MFG PART NUMBER · Re si,~t or 1/4W · >50 · li · R8> · 390 · R86
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p14 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p14%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p14 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p14 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p14%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p14 (traced).dxf`).
 
 ### Page 15
 
@@ -183,7 +183,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p14 
 - **Dots (junctions):** 1
 - **Words (OCR):** 24 in 23 lines: LYLAd · ECK SYETEME · PaATS · ArJk · UBVASTER · MO0LW · PART · 0C ChiPTCN · NLMAFF · Keastor · philips · dclec
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p15 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p15%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p15 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p15 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p15%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p15 (traced).dxf`).
 
 ### Page 16
 
@@ -195,7 +195,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p15 
 - **Dots (junctions):** 2
 - **Words (OCR):** 84 in 48 lines: WA · YSTEM LTD · PARTS LI ST · M4631< SUBMASTER MOOUL · OESCR PTI ON · MfG PAAT NUMBER · SW10 · Swi tch · SWI · dele te · SW12 · SW13
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p16 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p16%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p16 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p16 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p16%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p16 (traced).dxf`).
 
 ### Page 17
 
@@ -205,7 +205,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p16 
 - **Words (OCR):** 11 in 7 lines: WARO-BECK SYSTEMS LTO · 109 AMPLIFIER SERIES · ps · BS · tp · ht · 109
 - **Title block:** (27, 402)–(136, 425) mm: WARO-BECK SYSTEMS LTO
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p17 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p17%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p17 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p17 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p17%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p17 (traced).dxf`).
 
 ### Page 18
 
@@ -217,7 +217,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p17 
 - **Dots (junctions):** 5
 - **Words (OCR):** 239 in 103 lines: YSTEMS LTO · 109 AMP LIFI ER SERI ES · Tne 8-109 ser ies of alnQ lif ie no a"e · til ed · in te""al component · in · io us · was se ries of audi · con sole modules. Eac · 8-109 · ....mp llfl · mou lS
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p18 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p18%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p18 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p18 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p18%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p18 (traced).dxf`).
 
 ### Page 19
 
@@ -228,7 +228,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p18 
 - **Dots (junctions):** 3
 - **Words (OCR):** 336 in 139 lines: WAFl · SECK SYSTEMS · 109 AMPLIF IE SERIES · Outpu Level · +30 Bm maximum · Pow er ReQuireme · 21 · vot tS dc, 18 mA qui escent Currerll · mA · +30 dBm ovto · Amb ie · Tempera ture
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p19 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p19%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p19 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p19 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p19%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p19 (traced).dxf`).
 
 ### Page 20
 
@@ -240,7 +240,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p19 
 - **Words (OCR):** 129 in 92 lines: WARD -BECK SYS TE · LT · PARTS LIST · 10 AMPLIFIER SERIES · 109 · PART · DESCRI PTI ON · MFG PART NUM8ER · CI · Capa~1tor J3 · Kellle · T3 90D3~6HD I0AS
 - **Title block:** (30, 402)–(96, 425) mm: WARD -BECK SYS TE
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p20 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p20%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p20 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p20 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p20%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p20 (traced).dxf`).
 
 ### Page 21
 
@@ -251,7 +251,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p20 
 - **Dots (junctions):** 1
 - **Words (OCR):** 78 in 57 lines: WARD ·SECK · LT · f.A.!U..L!:.!ll · 109 AMPLI FIE SERI ES · !:.!.Q.i · PART · DESCRIPTION · HFG · Hf PART NUM BER · Rul! tor · 51 · Ph!lips
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p21 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p21%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p21 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p21 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p21%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p21 (traced).dxf`).
 
 ### Page 22
 
@@ -262,7 +262,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p21 
 - **Dots (junctions):** 1
 - **Words (OCR):** 98 in 60 lines: WAFIO-BE CK SYSTEMS LT · PARTS LIST · 109 AMPLIF IER SERIES · PART · DESCRIPTION · MFG PART NUMBER · R36 · R37 · 38 · le te · ZI · teqre ed Circ uit
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p22 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p22%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p22 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p22 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p22%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p22 (traced).dxf`).
 
 ### Page 23
 
@@ -276,7 +276,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p22 
 - **Words (OCR):** 126 in 70 lines: WARO ~BECK · STEM · TO · PARTS LI ST · 109 AMPLIFIER SERIES · All pa ts as pe · 109 except as noted below · PART · DESCRIPTION · MFG · HFG PART NUMBER · Cap a~1to
 - **Wiring (first pass):** 6 connected wire groups from 120 runs; labelled ends: 88 mm → SERIES, 109; 40 mm → ST, SERIES, PARTS, AMPLIFIER; 24 mm → A11, pa, rts; 24 mm → All, pa; 5 mm → RI5
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p23 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p23%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p23 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p23 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p23%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p23 (traced).dxf`).
 
 ### Page 24
 
@@ -287,7 +287,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p23 
 - **Closed boxes:** 2
 - **Words (OCR):** 89 in 40 lines: WAI=ID · ECK · MS LTD. · 8-109 · AMPLIFI ER SERIES · All parts lIS per 8-109 ex ce · as no · be ow · PART · DESCRI PTI ON · MFG PART NUMBER · gl Capa~1tor pF
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p24 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p24%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p24 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p24 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p24%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p24 (traced).dxf`).
 
 ### Page 25
 
@@ -297,7 +297,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p24 
 - **Circles and arcs:** 1 circles, 0 arcs; largest r 2.2 @ (229.0, 43.4)
 - **Words (OCR):** 8 in 5 lines: WAF:lO-B CK SYSTEMS L.TO · ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p25 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p25%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p25 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p25 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p25%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p25 (traced).dxf`).
 
 ### Page 26
 
@@ -307,7 +307,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p25 
 - **Circles and arcs:** 9 circles, 0 arcs; largest r 1.7 @ (174.1, 216.6), r 1.7 @ (212.2, 249.9), r 1.7 @ (155.7, 268.9), r 1.7 @ (230.2, 315.4)
 - **Words (OCR):** 60 in 45 lines: Oiad · FCk SYETEM5 · claCHUT DESC iption · 4_11 · euaMiNG · AMPLIfIer · mnitier · Oeeemo · akignve · JMMce · Jtedl · mplifiers
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p26 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p26%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p26 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p26 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p26%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p26 (traced).dxf`).
 
 ### Page 27
 
@@ -318,7 +318,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p26 
 - **Dots (junctions):** 1
 - **Words (OCR):** 143 in 89 lines: WAR · ECK YS EMS L.TD · 4_141 SUMMING AMPLIF IER · MFG PART NUM8e · CO · Ca cll Ol"" · 330 uF · 1390F337MOO6A · C2 · 330 uF · 6800pF · Aselco
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p27 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p27%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p27 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p27 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p27%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p27 (traced).dxf`).
 
 ### Page 28
 
@@ -327,7 +327,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p27 
 - **Outlines:** line 334 rings, 3,137 straight (6,162 mm) / 690 curved (1,049 mm); text 463 rings, 3,200 straight (3,562 mm) / 897 curved (1,455 mm)
 - **Words (OCR):** 75 in 45 lines: WAFlO ·BE · SYS · MS LTO · DESCRIPTION · ee · Resl stOl'". !4.W.5 · '00 · IP · R8 · to · .-im Pot · ,OI'" 1!4.W .51
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p28 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p28%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p28 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p28 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p28%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p28 (traced).dxf`).
 
 ### Page 29
 
@@ -336,7 +336,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p28 
 - **Outlines:** line 104 rings, 1,401 straight (3,693 mm) / 217 curved (370 mm); text 64 rings, 579 straight (785 mm) / 120 curved (189 mm)
 - **Words (OCR):** 17 in 9 lines: O·S CK SYSTEMS TC · 126 EQUAL IZ ER · LTER AMPLI · ER · ps · BS · SEPTEMBER 1983 · tp · ht
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p29 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p29%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p29 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p29 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p29%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p29 (traced).dxf`).
 
 ### Page 30
 
@@ -346,7 +346,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p29 
 - **Circles and arcs:** 2 circles, 0 arcs; largest r 2.1 @ (97.4, 130.6), r 2.1 @ (196.3, 376.5)
 - **Words (OCR):** 323 in 128 lines: AR · ECK YST EM · IRCUI · DESC RI TIO · 4_126 ECUALIZER FIL TER AMP LIFIER · The 4_126 equal ize · illa.. ampl if ie · is · p";nte · c:i.-cu lt boa · utl ized · as
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p30 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p30%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p30 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p30 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p30%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p30 (traced).dxf`).
 
 ### Page 31
 
@@ -356,7 +356,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p30 
 - **Circles and arcs:** 3 circles, 0 arcs; largest r 2.2 @ (109.1, 334.7), r 1.7 @ (200.8, 280.8), r 1.7 @ (248.3, 93.8)
 - **Words (OCR):** 187 in 112 lines: WARC-BECK YST MS LT · 126 EQU....L lZER FILTER ....MPLIF.ER · ct · Cap~cltO/'" · uF · Kernel · TJ9OB685 MOO6.... · C2 · 4hilip5 · 2222 _638 _09688 · OJ · del.,le
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p31 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p31%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p31 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p31 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p31%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p31 (traced).dxf`).
 
 ### Page 32
 
@@ -366,7 +366,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p31 
 - **Circles and arcs:** 1 circles, 0 arcs; largest r 2.2 @ (104.5, 338.3)
 - **Words (OCR):** 69 in 49 lines: WARO-SECK SYSTEMS LT · 4-126 EQUALIZER FILTER AMPLIF ER · MFG PART NUM BER · Re lsl or 1/4W · 5S · Phili ps · R2 · 10 · RJ · 62' · 22" · 22K
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p32 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p32%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p32 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p32 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p32%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p32 (traced).dxf`).
 
 ### Page 33
 
@@ -378,7 +378,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p32 
 - **Dots (junctions):** 2
 - **Words (OCR):** 32 in 25 lines: WAAC DBCr SYETEMS · PAnTS LUEI · AMPLWEIER · 4-126 EQUALIZER Filten · DESCRiPtICY · NlYAFA · Pecoc · Philipa · Hele · Resisior · V/4w 3 · Iniegrateo
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p33 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p33%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p33 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p33 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p33%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p33 (traced).dxf`).
 
 ### Page 34
 
@@ -391,7 +391,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p33 
 - **Words (OCR):** 378 in 177 lines: WARD~ BECK · SYSTE MS LT · OPERA ONA · CONTROLS · M46J · INPUT MODU LE · MAS ER ASSI GNMENT · wi tc es SW22 · nd SW2J · Wh en depre ssed · FT ou tpu · igna
 - **Title block:** (25, 399)–(90, 421) mm: WARD~ BECK
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p34 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p34%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p34 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p34 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p34%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p34 (traced).dxf`).
 
 ### Page 35
 
@@ -401,7 +401,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p34 
 - **Circles and arcs:** 12 circles, 0 arcs; largest r 2.2 @ (164.7, 182.1), r 2.1 @ (62.2, 122.4), r 2.1 @ (160.7, 182.1), r 2.1 @ (77.9, 205.7)
 - **Words (OCR):** 369 in 128 lines: WAR O-BECK SYSTEM LTO · OP ERAT IONAL CONTROLS · 101 46 31( INPUT MOOULE · dep~lSecI, · 13 MASTER ASSIGNMENT switches SW24 and SW25 When · RIG HT out pu · signal Is fed · ia summing · is or-.. to ex ternal · maSler · nvn · buses 1012 and/or IoU
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p35 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p35%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p35 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p35 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p35%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p35 (traced).dxf`).
 
 ### Page 36
 
@@ -414,7 +414,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p35 
 - **Words (OCR):** 18 in 16 lines: WBS · Wlc 3k · 3/4- 0-1/2 · 86 · RSps. · PAN · SUB · IssueIDATE · PlYisIY · WBS WARD-BeCk SYSTEMS · @AMECAnT · M463k
 - **Title block:** (154, 26)–(335, 416) mm: WBS · Wlc 3k · 3/4- 0-1/2 · 86 · RSps. · PAN · SUB · IssueIDATE · PlYisIY · WBS WARD-BeCk SYSTEMS · @AMECAnT · M463k
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p36 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p36%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p36 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p36 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p36%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p36 (traced).dxf`).
 
 ### Page 37
 
@@ -425,7 +425,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p36 
 - **Closed boxes:** 29; named: ISS; MOD; CKO.; 3654; PKI{; ps; BS
 - **Words (OCR):** 32 in 24 lines: EQ · INSERT · I'NSEST JACKS: · <A.'S · SUMMING · BUS INPUT · 10 dBm · f-----'lof-~~(- 15db) · SLATE · DIRECT INPUT · AUDIO · -10dBm
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p37 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p37%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p37 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p37 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p37%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p37 (traced).dxf`).
 
 ### Page 38
 
@@ -436,7 +436,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p37 
 - **Closed boxes:** 17; named: MAT; LTD lJ STEM ps; BS tp; FINISH; ht 01- 010 463-; -xx xx TOLS NG; SS.
 - **Words (OCR):** 63 in 55 lines: DIRECT OUT · 10 dBm · PAN · INSERT · M1 · LEFT · OUT · M3 · IF: PRE/PO ST · M2 RIGHT · OUT · ATE
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p38 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p38%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p38 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p38 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p38%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p38 (traced).dxf`).
 
 ### Page 39
 
@@ -447,7 +447,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p38 
 - **Dots (junctions):** 1
 - **Words (OCR):** 47 in 43 lines: 21v · lE4- · 41 · .JS · .J7 · 5UMM I"lG · EI · Pu · 5U"'lMINGo · AM · J8 · lEe.
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p39 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p39%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p39 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p39 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p39%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p39 (traced).dxf`).
 
 ### Page 40
 
@@ -457,7 +457,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p39 
 - **Dots (junctions):** 1
 - **Words (OCR):** 49 in 42 lines: HF · MF · LF · kHz · 5kHz · 00 Hz · kJ.Jz · 25Hz 400Hz · RI · R2 · R4 · R5
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p40 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p40%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p40 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p40 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p40%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p40 (traced).dxf`).
 
 ### Page 41
 
@@ -468,7 +468,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p40 
 - **Closed boxes:** 1
 - **Words (OCR):** 59 in 51 lines: LF · 4oo;lz · SLATE · R8 · IN PUT · 3£3 · 3£7 · _P2 · SW21 · sg~ · PI · 10
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p41 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p41%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p41 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p41 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p41%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p41 (traced).dxf`).
 
 ### Page 42
 
@@ -480,7 +480,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p41 
 - **Dots (junctions):** 1
 - **Words (OCR):** 120 in 106 lines: RI3 · I4 · -2t · 10 · R14 · 51( · Jv · ATE · PU · R13 · E3 · 4-E,
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p42 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p42%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p42 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p42 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p42%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p42 (traced).dxf`).
 
 ### Page 43
 
@@ -492,7 +492,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p42 
 - **Dots (junctions):** 2
 - **Words (OCR):** 50 in 39 lines: I3 · 15 · 4E, · RB8 · ES · R9 t!ik · PR · ST~ · Io IS" · RIS · PR · ST
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p43 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p43%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p43 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p43 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p43%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p43 (traced).dxf`).
 
 ### Page 44
 
@@ -503,7 +503,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p43 
 - **Closed boxes:** 9; named: KI 04 23 30· ....202
 - **Words (OCR):** 106 in 78 lines: MOUNTED ON · SOLD · \DE. · RlO'3 · sw · Sw · ol:: · Ra2.~1l · R80 · 00 00 · RB f!Z · SWl
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p44 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p44%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p44 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p44 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p44%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p44 (traced).dxf`).
 
 ### Page 45
 
@@ -516,7 +516,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p44 
 - **Words (OCR):** 97 in 79 lines: G4ic · 373 · 5wB 6w7 Swc · Sws Sw+ Sn3 · 3TcER · OTHER · CTLEF · SiDE · CUT PCB · FOR 4463 · Swis · 5wzo
 - **Title block:** (217, 9)–(260, 50) mm: DaPiA · ELEWYZE · cKDL · CA · Tols
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p45 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p45%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p45 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p45 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p45%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p45 (traced).dxf`).
 
 ### Page 46
 
@@ -526,7 +526,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p45 
 - **Closed boxes:** 44; named: B2; C3; F6; H7; K9; 10; M11; N12; 13; 14; 15; 16
 - **Words (OCR):** 110 in 76 lines: P1 · t.;~11 · NG · Pu-;- · U~\t~ t;G · I'-.P UT · NC · B2 · SHIELD · PA C3 · PA · SA2
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p46 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p46%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p46 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p46 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p46%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p46 (traced).dxf`).
 
 ### Page 47
 
@@ -537,7 +537,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p46 
 - **Words (OCR):** 126 in 82 lines: P2 · Ie · IC · GND · LEFT OUT · C3 · LE FT · OUT · Ml · LEFT OUT D4 · LEF · OUT
 - **Title block:** (116, 10)–(332, 110) mm: LOWER) · REVISION · APP. · (VVE3S) WA -BECK SYSTEMS · ps · DRN · Oc · 79 · BS · M463K · ENG. · SUB- MAS TE MODU LE · CKD · CONNEC TOR REAR VI EW · APP. · tp · SCALE · ht · ISSUE · 463- 04-01
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p47 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p47%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p47 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p47 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p47%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p47 (traced).dxf`).
 
 ### Page 48
 
@@ -548,7 +548,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p47 
 - **Closed boxes:** 4; named: Cli
 - **Words (OCR):** 99 in 89 lines: IS · '8v · csl · 3'0 · RI7 · I!l · 10 · 22 · P"l3"4:::; · 2N~Tc · lOl · QI
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p48 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p48%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p48 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p48 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p48%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p48 (traced).dxf`).
 
 ### Page 49
 
@@ -562,7 +562,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p48 
 - **Title block:** (228, 8)–(285, 57) mm: BS · I5Sta: DATE · (VVBS] · tp · DftN. GEl · ENG.M.W · ht BOOSTER AMPLIFIER · "71 · CKD.
 - **Wiring (first pass):** 29 connected wire groups from 251 runs; labelled ends: 202 mm → ~.R27, 107; 200 mm → E3; 148 mm → C.I, 1220/10, E4; 148 mm → 20/1; 107 mm → R3, 20/1, ft-, ~.R27
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p49 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p49%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p49 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p49 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p49%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p49 (traced).dxf`).
 
 ### Page 50
 
@@ -572,7 +572,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p49 
 - **Circles and arcs:** 19 circles, 0 arcs; largest r 11.3 @ (84.7, 269.5), r 11.1 @ (21.0, 269.5), r 10.6 @ (85.1, 143.4), r 6.5 @ (14.1, 91.6)
 - **Words (OCR):** 45 in 34 lines: 10 · -CI · -RIG. 1i!2.l<. · -Rl · -RS · -R3 "K2 · -R8 18K · 1"i414& · -CRI*- · P)l~.s · 2N210t. · _C:'l..!...op
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p50 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p50%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p50 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p50 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p50%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p50 (traced).dxf`).
 
 ### Page 51
 
@@ -584,7 +584,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p50 
 - **Words (OCR):** 45 in 35 lines: Ez8 · 2~/1O · ~2~lC. · _CIO.1·7 · CII..!5 · R\3 · _C3-10/2S · ·E.s · 220JIC?C\~_ · toI" · Ecol'l3 · 4-0 17
 - **Title block:** (115, 10)–(332, 111) mm: IZO/'7 IRJI · 4-00~ · ISSUE DATE · REVISION · lAPP. · (~E3S) WARD-BECK IIYBTEMS · ps · DRN. GEl · 8-109 BS · ENG.MRW · ./78 · BOOSTER AMPLIFIER · CKD. · COMPONENT LAYOUT · APP. · tp · SCALE · ht · ISS
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p51 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p51%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p51 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p51 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p51%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p51 (traced).dxf`).
 
 ### Page 52
 
@@ -594,7 +594,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p51 
 - **Closed boxes:** 4; named: CII ""."7p
 - **Words (OCR):** 123 in 105 lines: I8'V · c3 · 90 · 10 /25 · 1<17 · RI · 22 · 02 · PN3''''' · 2N~~OZ · CI · R6
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p52 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p52%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p52 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p52 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p52%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p52 (traced).dxf`).
 
 ### Page 53
 
@@ -605,7 +605,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p52 
 - **Closed boxes:** 6; named: ISSW; DATE
 - **Words (OCR):** 58 in 44 lines: E3 · +21 ·Sv · 22 · 0>3 · 2N '210 · E4 · R34- · IS · 220/10 · cR' · Q4 · N4
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p53 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p53%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p53 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p53 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p53%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p53 (traced).dxf`).
 
 ### Page 54
 
@@ -616,7 +616,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p53 
 - **Closed boxes:** 2; named: 'Z2 LF35G.>
 - **Words (OCR):** 48 in 42 lines: EI · ~3/1O · -CI · -RI · "',11. · -R5~K · -R8 470 · lAI414a · -C.RI""- · P~3C004S · 'Z2 · LF35G.>
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p54 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p54%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p54 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p54 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p54%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p54 (traced).dxf`).
 
 ### Page 55
 
@@ -629,7 +629,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p54 
 - **Words (OCR):** 45 in 34 lines: i,7.B · cz · 1-1'.2~1C. · _R,,~K · Rl £lQ · 7:2 · LF35(... · -C'O~'7p · -CI\~·"'P · ~RI\~K · -R\"2. 21< · _R\3
 - **Title block:** (115, 9)–(332, 111) mm: REVISION · ISSUE DATE · lAPP. · (~El5i] WARD-BECK SYSTEMS · ps · DRN. GE8 · 8-109A BS · ENG.MRW ./78 · OUT PU AMPLIFIER · CKD...e~ · COMPONENT LAYOUT · APP. · tp · SCALE · ht · ISSUE · 8-109-06-002
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p55 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p55%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p55 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p55 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p55%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p55 (traced).dxf`).
 
 ### Page 56
 
@@ -640,7 +640,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p55 
 - **Closed boxes:** 24; named: USED ON; MOD.; CKD.; Jill; ps; BS; 2%1; 3\l5; tp; 3l>S!>; Pi<N{; 04-5-
 - **Words (OCR):** 56 in 48 lines: c23 · 2.2.0p · R2 · 47k · Q3 · PN3 · 330/" · R23 Z2 · Rf5 · nev · fOO · 2V
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p56 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p56%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p56 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p56 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p56%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p56 (traced).dxf`).
 
 ### Page 57
 
@@ -654,7 +654,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p56 
 - **Title block:** (100, 18)–(248, 83) mm: [YvasJ WARD-BECK BYSTEMS · DRN. · OM · 4-141 · DATE · NOV 74 · SUMMING AMPLIFIER · CKD · SCHEMATIC · SCALE · :::11.
 - **Wiring (first pass):** 34 connected wire groups from 246 runs; labelled ends: 459 mm → ON; 194 mm → 2k4, cf2, R19, 47f; 191 mm → DATE, CKD, DRN., [YvasJ; 114 mm → R'7, 7k5, R25, 2k4; 106 mm → R18, 2k4, cf2, R19
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p57 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p57%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p57 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p57 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p57%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p57 (traced).dxf`).
 
 ### Page 58
 
@@ -665,7 +665,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p57 
 - **Closed boxes:** 52; named: ISS; MOO; eKO; MOD.; CKD.; USED ON; 1111; fLL; ps; 'l:!I.t>; f(.J; ~O3
 - **Words (OCR):** 33 in 24 lines: ~OTE. · ell · 21 ARt FACTOR.Y · SEL.t:C.TED · ISS · MOO eKO ISS · MOD. CKD. · USED ON · MATL · 1111 · ps · fLL
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p58 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p58%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p58 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p58 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p58%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p58 (traced).dxf`).
 
 ### Page 59
 
@@ -677,7 +677,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p58 
 - **Words (OCR):** 29 in 23 lines: ON · MATL · ~WAAD.BECK SYSTEMS · LTC. · ps · BS · DRN. · OM · 4-141 · DATE · DEC 74 · FINISH
 - **Title block:** (100, 14)–(303, 88) mm: ~WAAD.BECK SYSTEMS · ps · BS · DRN. · OM · 4-141 · DATE · DEC 74 · SUMMING AMPLIFIER · CKD · tp · SCALE · COMPONENT LAYOUT · ht · :~~lt
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p59 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p59%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p59 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p59 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p59%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p59 (traced).dxf`).
 
 ### Page 60
 
@@ -688,7 +688,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p59 
 - **Closed boxes:** 1
 - **Words (OCR):** 25 in 18 lines: H"GH FBEQyENC.1 IH:.~ · i~'p · '1;"7'c. ;';;~:::~C";L · Ur.J · t'.:C,1P' 1'El;) · CT"' ~Il; · li · CoOl.' '"fll' · IIl;c.U lT · il · 2.0I · ii
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p60 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p60%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p60 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p60 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p60%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p60 (traced).dxf`).
 
 ### Page 61
 
@@ -699,7 +699,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p60 
 - **Closed boxes:** 16
 - **Words (OCR):** 11 in 10 lines: MID ",E0 · 00"~ · l!I!> · bO · l1: · 12S · ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p61 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p61%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p61 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p61 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p61%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p61 (traced).dxf`).
 
 ### Page 62
 
@@ -710,7 +710,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p61 
 - **Closed boxes:** 23; named: z4 ~M_IN; Z2 LM20IN
 - **Words (OCR):** 25 in 24 lines: E5' · CD · RU · aetR21 · z4 · ~M_IN · Z2 · LM20IN · is · R38 · If · 150(~;L
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p62 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p62%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p62 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p62 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p62%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p62 (traced).dxf`).
 
 ### Page 63
 
@@ -722,7 +722,7 @@ Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p62 
 - **Dots (junctions):** 1
 - **Words (OCR):** 90 in 68 lines: ".s/r. · In · CD · C.7 · Rto RlfJ CIB · R241 RIB · C19 · LJ · 14• · CD · Cr If · C4Cf
 
-Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p63 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2)%20p63%20(traced).json) (the CAD file: `1974 - M463K - Submaster Module (2) p63 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - Submaster Module (2) p63 (traced).json](../MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20%282%29%20p63%20%28traced%29.json) (the CAD file: `1974 - M463K - Submaster Module (2) p63 (traced).dxf`).
 
 ## Full text
 

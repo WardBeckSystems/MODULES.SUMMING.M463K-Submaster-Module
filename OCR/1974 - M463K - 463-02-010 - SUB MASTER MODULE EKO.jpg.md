@@ -23,7 +23,7 @@ Wiki page: [M463K](../../../../PAGES/M463K.md)
 - **Title block:** (134, 4)–(258, 50) mm: ISS Nop CKD · WBS · PKU · CKd · SCALE · TOls _
 - **Wiring (first pass):** 157 connected wire groups from 698 runs; labelled ends: 478 mm → PsT, PRE, Swi, FB; 440 mm → R88, 5.6, Swig, PsT; 381 mm → ~P2-12, P2-N, Swia PAN, 4E4; 377 mm → PRE, PsT, PST, Pst; 249 mm → 4EG, R88, R27-, R25-
 
-Every curve, box, word and wire group: [1974 - M463K - 463-02-010 - SUB MASTER MODULE EKO (traced).json](../SCHEMATICS/1974%20-%20M463K%20-%20463-02-010%20-%20SUB%20MASTER%20MODULE%20EKO%20(traced).json) (the CAD file: `1974 - M463K - 463-02-010 - SUB MASTER MODULE EKO (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - 463-02-010 - SUB MASTER MODULE EKO (traced).json](../SCHEMATICS/1974%20-%20M463K%20-%20463-02-010%20-%20SUB%20MASTER%20MODULE%20EKO%20%28traced%29.json) (the CAD file: `1974 - M463K - 463-02-010 - SUB MASTER MODULE EKO (traced).dxf`).
 
 ## Full text
 

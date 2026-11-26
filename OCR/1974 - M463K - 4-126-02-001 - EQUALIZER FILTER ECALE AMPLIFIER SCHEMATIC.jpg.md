@@ -24,7 +24,7 @@ Wiki page: [M463K](../../../../PAGES/M463K.md)
 - **Title block:** (214, 13)–(324, 49) mm: WBS WAAD-Beck Byatemb LTD · DATE · CEO · 4-126 · SCAL · AMPLIFIER SCHEMATIC · EQUAlIZER Filter
 - **Wiring (first pass):** 78 connected wire groups from 532 runs; labelled ends: 373 mm → Ka; 270 mm → R23, 222, VALUE, 223; 260 mm → R33, 6<2, 2245JED; 198 mm → 215, 620, 718; 191 mm → R39, 620, R4 |, 22k
 
-Every curve, box, word and wire group: [1974 - M463K - 4-126-02-001 - EQUALIZER FILTER ECALE AMPLIFIER SCHEMATIC (traced).json](../SCHEMATICS/1974%20-%20M463K%20-%204-126-02-001%20-%20EQUALIZER%20FILTER%20ECALE%20AMPLIFIER%20SCHEMATIC%20(traced).json) (the CAD file: `1974 - M463K - 4-126-02-001 - EQUALIZER FILTER ECALE AMPLIFIER SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - 4-126-02-001 - EQUALIZER FILTER ECALE AMPLIFIER SCHEMATIC (traced).json](../SCHEMATICS/1974%20-%20M463K%20-%204-126-02-001%20-%20EQUALIZER%20FILTER%20ECALE%20AMPLIFIER%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1974 - M463K - 4-126-02-001 - EQUALIZER FILTER ECALE AMPLIFIER SCHEMATIC (traced).dxf`).
 
 ## Full text
 

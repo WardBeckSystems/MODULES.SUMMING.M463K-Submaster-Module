@@ -20,7 +20,7 @@ Wiki page: [M463K](../../../../PAGES/M463K.md)
 - **Closed boxes:** 26; named: 2i Lm2eIN; 24 Lmzoin; 22 LMzein; 26 LMzoin
 - **Words (OCR):** 63 in 48 lines: E5 · E3 68/6 · L0 -; C7 · R2o"| Ri?cig c18 · C6 · 25 · C21R2i Rr · R24 · Ri8 · t9 R7 2i · C1b · R2
 
-Every curve, box, word and wire group: [1974 - M463K - 4-126-06-001 - SSNODECKD USOH CATT (traced).json](../SCHEMATICS/1974%20-%20M463K%20-%204-126-06-001%20-%20SSNODECKD%20USOH%20CATT%20(traced).json) (the CAD file: `1974 - M463K - 4-126-06-001 - SSNODECKD USOH CATT (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - 4-126-06-001 - SSNODECKD USOH CATT (traced).json](../SCHEMATICS/1974%20-%20M463K%20-%204-126-06-001%20-%20SSNODECKD%20USOH%20CATT%20%28traced%29.json) (the CAD file: `1974 - M463K - 4-126-06-001 - SSNODECKD USOH CATT (traced).dxf`).
 
 ## Full text
 

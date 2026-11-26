@@ -19,7 +19,7 @@ Wiki page: [M463K](../../../../PAGES/M463K.md)
 - **Closed boxes:** 44; named: HI; Ji8; Ki9; L/1o; PII 3; R/1; 5/15; Tig; Uli7/; vh18; Wli9; Xl2o
 - **Words (OCR):** 95 in 49 lines: PI · SUMM /NG INPUT · SUMM | NG INPUT · NC B | 2 · SHIELD · PA · PA · SA2 · SA2 · SAI E|5 SAI · FB4 · FBL
 
-Every curve, box, word and wire group: [1974 - M463K - 463-04-016 - OUTPUT AMP UPPER LEGEND (traced).json](../MECHANICAL/1974%20-%20M463K%20-%20463-04-016%20-%20OUTPUT%20AMP%20UPPER%20LEGEND%20(traced).json) (the CAD file: `1974 - M463K - 463-04-016 - OUTPUT AMP UPPER LEGEND (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - 463-04-016 - OUTPUT AMP UPPER LEGEND (traced).json](../MECHANICAL/1974%20-%20M463K%20-%20463-04-016%20-%20OUTPUT%20AMP%20UPPER%20LEGEND%20%28traced%29.json) (the CAD file: `1974 - M463K - 463-04-016 - OUTPUT AMP UPPER LEGEND (traced).dxf`).
 
 ## Full text
 

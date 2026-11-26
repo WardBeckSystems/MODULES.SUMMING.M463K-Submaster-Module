@@ -21,7 +21,7 @@ Wiki page: [M463K](../../../../PAGES/M463K.md)
 - **Words (OCR):** 124 in 104 lines: Swio · Sws · Sw8 5w7 · SwG Sws Sw4 Sw3 · OTHER · OTHERI · CTHER · SIDE · SIDE · SIDE · CuT · PCB
 - **Title block:** (119, 5)–(298, 53) mm: @SCOOICKD] USED On · MT _ · WBS WAAD-BEck · DrR: PRM · M463k · MIMISH · DATE/3 JY7/2 · SUb ~ MASTER MODULe · CKD · COMPONENT · [SCALE · TOLS_ · 4-136-06-018
 
-Every curve, box, word and wire group: [1974 - M463K - 4-136-06-018 - PIN LISSCOD ICKD USED (traced).json](../SCHEMATICS/1974%20-%20M463K%20-%204-136-06-018%20-%20PIN%20LISSCOD%20ICKD%20USED%20(traced).json) (the CAD file: `1974 - M463K - 4-136-06-018 - PIN LISSCOD ICKD USED (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - 4-136-06-018 - PIN LISSCOD ICKD USED (traced).json](../SCHEMATICS/1974%20-%20M463K%20-%204-136-06-018%20-%20PIN%20LISSCOD%20ICKD%20USED%20%28traced%29.json) (the CAD file: `1974 - M463K - 4-136-06-018 - PIN LISSCOD ICKD USED (traced).dxf`).
 
 ## Full text
 

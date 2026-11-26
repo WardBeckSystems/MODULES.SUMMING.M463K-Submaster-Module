@@ -22,7 +22,7 @@ Wiki page: [M463K](../../../../PAGES/M463K.md)
 - **Words (OCR):** 25 in 22 lines: EQ · INSERT · INSERT JACKS ON · SUB · SYMMPNG · FADER · BUS · 4-141 · 4-126 · 8-109A · ~10 dBm · (~15db )
 - **Wiring (first pass):** 54 connected wire groups from 207 runs; labelled ends: 552 mm → ISS MOD.  CKD:; 156 mm → SUB, ON, FADER, (~15db ); 142 mm → ISS MOD.  CKD:, 3654; 114 mm → SYMMPNG, 4-141; 66 mm → ISS MOD.  CKD:, 3654, PKM
 
-Every curve, box, word and wire group: [1974 - M463K - 463-01-010 - INSERT SUB INSERT JACKS FADER (traced).json](../SCHEMATICS/1974%20-%20M463K%20-%20463-01-010%20-%20INSERT%20SUB%20INSERT%20JACKS%20FADER%20(traced).json) (the CAD file: `1974 - M463K - 463-01-010 - INSERT SUB INSERT JACKS FADER (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - 463-01-010 - INSERT SUB INSERT JACKS FADER (traced).json](../SCHEMATICS/1974%20-%20M463K%20-%20463-01-010%20-%20INSERT%20SUB%20INSERT%20JACKS%20FADER%20%28traced%29.json) (the CAD file: `1974 - M463K - 463-01-010 - INSERT SUB INSERT JACKS FADER (traced).dxf`).
 
 ## Full text
 

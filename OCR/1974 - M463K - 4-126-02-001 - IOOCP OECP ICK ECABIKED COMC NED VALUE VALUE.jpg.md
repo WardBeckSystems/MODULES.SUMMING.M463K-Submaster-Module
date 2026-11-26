@@ -22,7 +22,7 @@ Wiki page: [M463K](../../../../PAGES/M463K.md)
 - **Words (OCR):** 43 in 39 lines: EREQUENLY · 25khz. · 23 · cio · 68p · 6zo · 620 · Rio · 7i3 · 22p · 620 · 22
 - **Wiring (first pass):** 43 connected wire groups from 308 runs; labelled ends: 263 mm → cio; 122 mm → 23; 112 mm → cio; 93 mm → Rio, 620; 79 mm → 04
 
-Every curve, box, word and wire group: [1974 - M463K - 4-126-02-001 - IOOCP OECP ICK ECABIKED COMC NED VALUE VALUE (traced).json](../SCHEMATICS/1974%20-%20M463K%20-%204-126-02-001%20-%20IOOCP%20OECP%20ICK%20ECABIKED%20COMC%20NED%20VALUE%20VALUE%20(traced).json) (the CAD file: `1974 - M463K - 4-126-02-001 - IOOCP OECP ICK ECABIKED COMC NED VALUE VALUE (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463K - 4-126-02-001 - IOOCP OECP ICK ECABIKED COMC NED VALUE VALUE (traced).json](../SCHEMATICS/1974%20-%20M463K%20-%204-126-02-001%20-%20IOOCP%20OECP%20ICK%20ECABIKED%20COMC%20NED%20VALUE%20VALUE%20%28traced%29.json) (the CAD file: `1974 - M463K - 4-126-02-001 - IOOCP OECP ICK ECABIKED COMC NED VALUE VALUE (traced).dxf`).
 
 ## Full text
 
