@@ -1,0 +1,73 @@
+{
+ "drawing": "Modules/SUMMING/M463K/MANUALS/1974 - M463K - Submaster Module (2).pdf",
+ "page": 13,
+ "version": 1,
+ "trace": "_traces/92d57f045fba7ec0-p13.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "13", "pages": "63"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 13.8, 309.2, 431.8],
+ "outlines": {
+  "line": {"rings": 402, "straight": {"n": 3262, "mm": 6115.1}, "curved": {"n": 770, "mm": 1188.3}},
+  "text": {"rings": 352, "straight": {"n": 2528, "mm": 2921.4}, "curved": {"n": 715, "mm": 1136.5}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 48,
+  "lines": [
+   {"mm": [233.8, 324.9, 295.1, 330.0], "text": "MFG PART NUMBER"},
+   {"mm": [90.2, 310.5, 114.9, 317.9], "text": "s,~or 1/4"},
+   {"mm": [185.7, 312.0, 204.5, 317.3], "text": "Ph il ip"},
+   {"mm": [153.1, 284.3, 165.6, 291.5], "text": "sao"},
+   {"mm": [48.1, 274.4, 58.5, 286.2], "text": "'SO"},
+   {"mm": [47.9, 271.0, 55.3, 278.9], "text": "as"},
+   {"mm": [153.7, 271.2, 160.6, 278.8], "text": "rs"},
+   {"mm": [47.9, 250.9, 59.4, 258.8], "text": "esa"},
+   {"mm": [76.4, 244.8, 95.9, 250.1], "text": "de te le"},
+   {"mm": [52.2, 231.9, 59.6, 239.8], "text": "se"},
+   {"mm": [76.4, 238.1, 120.0, 243.2], "text": "Res; sl or 1/4W"},
+   {"mm": [152.9, 224.3, 165.4, 231.5], "text": "eac"},
+   {"mm": [47.9, 215.0, 57.6, 223.0], "text": ",sa"},
+   {"mm": [48.4, 201.4, 58.7, 208.6], "text": "esc"},
+   {"mm": [152.9, 194.7, 161.9, 200.3], "text": "620"},
+   {"mm": [48.4, 171.0, 58.9, 182.7], "text": "86'"},
+   {"mm": [48.4, 164.3, 58.5, 176.1], "text": "86'"},
+   {"mm": [48.4, 157.6, 58.9, 169.4], "text": "86'"},
+   {"mm": [52.5, 151.3, 58.9, 163.1], "text": "56"},
+   {"mm": [48.4, 144.7, 57.9, 156.4], "text": "86'"},
+   {"mm": [152.9, 148.5, 161.9, 154.1], "text": "620"},
+   {"mm": [152.9, 125.2, 161.9, 130.7], "text": "620"},
+   {"mm": [80.7, 118.7, 91.5, 124.0], "text": "el el"},
+   {"mm": [48.1, 112.1, 58.7, 117.6], "text": "An"},
+   {"mm": [76.4, 92.0, 120.5, 97.3], "text": "Res sl or /4W"},
+   {"mm": [278.7, 65.0, 299.7, 74.1], "text": "ps"},
+   {"mm": [267.1, 53.5, 288.9, 65.1], "text": "BS"},
+   {"mm": [152.9, 54.6, 161.9, 60.1], "text": "620"},
+   {"mm": [47.9, 47.1, 59.2, 52.6], "text": "'80"},
+   {"mm": [153.3, 48.1, 163.0, 53.4], "text": "6<2"},
+   {"mm": [153.3, 37.6, 163.7, 48.8], "text": "OK'"},
+   {"mm": [48.4, 34.8, 56.6, 42.0], "text": "sa"},
+   {"mm": [244.8, 31.1, 263.4, 38.3], "text": "tp"},
+   {"mm": [237.5, 24.0, 258.4, 31.2], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–309 mm across, 14–432 mm up",
+  "- **Outlines:** line 402 rings, 3,262 straight (6,115 mm) / 770 curved (1,188 mm); text 352 rings, 2,528 straight (2,921 mm) / 715 curved (1,136 mm)",
+  "- **Words (OCR):** 48 in 34 lines: MFG PART NUMBER · s,~or 1/4 · Ph il ip · sao · 'SO · as · rs · esa · de te le · se · Res; sl or 1/4W · eac"
+ ]
+}

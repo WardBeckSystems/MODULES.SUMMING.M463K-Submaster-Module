@@ -1,0 +1,49 @@
+{
+ "drawing": "Modules/SUMMING/M463K/MANUALS/1974 - M463K - Submaster Module (2).pdf",
+ "page": 17,
+ "version": 1,
+ "trace": "_traces/92d57f045fba7ec0-p17.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "17", "pages": "63"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 331.2, 421.7],
+ "outlines": {
+  "line": {"rings": 66, "straight": {"n": 1171, "mm": 3307.2}, "curved": {"n": 157, "mm": 268.4}},
+  "text": {"rings": 38, "straight": {"n": 264, "mm": 345.9}, "curved": {"n": 81, "mm": 130.3}},
+  "tb": {"rings": 26, "straight": {"n": 219, "mm": 296.6}, "curved": {"n": 58, "mm": 92.7}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 11,
+  "lines": [
+   {"mm": [33.9, 410.6, 146.8, 415.9], "text": "WARO-BECK SYSTEMS LTO"},
+   {"mm": [139.5, 287.6, 217.2, 294.1], "text": "109 AMPLIFIER SERIES"},
+   {"mm": [278.7, 65.0, 299.7, 74.1], "text": "ps"},
+   {"mm": [267.1, 53.5, 288.9, 65.1], "text": "BS"},
+   {"mm": [244.8, 31.1, 263.4, 38.3], "text": "tp"},
+   {"mm": [237.5, 24.0, 258.4, 31.2], "text": "ht"},
+   {"mm": [171.4, 10.1, 181.6, 16.1], "text": "109"}
+  ]
+ },
+ "title_block": {"mm": [27.2, 402.0, 135.5, 424.6], "from": "title-block words (training set)", "text": ["WARO-BECK SYSTEMS LTO"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–331 mm across, 0–422 mm up",
+  "- **Outlines:** line 66 rings, 1,171 straight (3,307 mm) / 157 curved (268 mm); text 38 rings, 264 straight (346 mm) / 81 curved (130 mm); tb 26 rings, 219 straight (297 mm) / 58 curved (92.7 mm)",
+  "- **Words (OCR):** 11 in 7 lines: WARO-BECK SYSTEMS LTO · 109 AMPLIFIER SERIES · ps · BS · tp · ht · 109",
+  "- **Title block:** (27, 402)–(136, 425) mm: WARO-BECK SYSTEMS LTO"
+ ]
+}

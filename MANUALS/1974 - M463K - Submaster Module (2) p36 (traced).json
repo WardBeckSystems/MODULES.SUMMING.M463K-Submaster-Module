@@ -1,0 +1,91 @@
+{
+ "drawing": "Modules/SUMMING/M463K/MANUALS/1974 - M463K - Submaster Module (2).pdf",
+ "page": 36,
+ "version": 1,
+ "trace": "_traces/92d57f045fba7ec0-p36.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "36", "pages": "63"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 334.9, 431.2],
+ "outlines": {
+  "line": {"rings": 196, "straight": {"n": 4419, "mm": 9982.3}, "curved": {"n": 830, "mm": 1291.2}},
+  "text": {"rings": 116, "straight": {"n": 773, "mm": 907.5}, "curved": {"n": 270, "mm": 362.0}},
+  "tb": {"rings": 580, "straight": {"n": 3459, "mm": 5783.7}, "curved": {"n": 1175, "mm": 2342.9}}
+ },
+ "circles": [
+  {"c": [86.5, 300.4], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [86.1, 177.5], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [86.5, 262.8], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [86.3, 222.2], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [86.0, 132.6], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [85.7, 95.8], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [85.6, 48.7], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [86.8, 332.1], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [86.6, 319.6], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [85.6, 80.6], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [86.1, 162.8], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [87.0, 367.5], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [274.8, 46.0, 323.4, 50.7], "w": 48.6, "h": 4.7, "from": "ring", "words": ["PlYisIY"], "in_title_block": true},
+  {"mm": [323.8, 46.2, 332.9, 50.7], "w": 9.1, "h": 4.5, "from": "ring", "in_title_block": true},
+  {"mm": [254.8, 46.0, 264.3, 50.5], "w": 9.5, "h": 4.5, "from": "ring", "in_title_block": true},
+  {"mm": [264.6, 46.0, 274.2, 50.5], "w": 9.6, "h": 4.5, "from": "ring", "words": ["IssueIDATE"], "in_title_block": true},
+  {"mm": [229.9, 32.2, 332.9, 45.5], "w": 103.0, "h": 13.3, "from": "ring", "words": ["WBS", "WARD-BeCk SYSTEMS"], "in_title_block": true},
+  {"mm": [254.8, 11.9, 332.9, 31.7], "w": 78.2, "h": 19.9, "from": "ring", "words": ["M463k", "SUBMASTER MODUlE", "FRONT PANEL"]},
+  {"mm": [229.9, 22.0, 254.1, 26.6], "w": 24.2, "h": 4.5, "from": "ring"},
+  {"mm": [229.9, 11.7, 254.1, 16.4], "w": 24.2, "h": 4.7, "from": "ring"},
+  {"mm": [313.9, 1.9, 332.9, 11.7], "w": 19.0, "h": 9.7, "from": "ring"},
+  {"mm": [264.7, 1.9, 313.5, 11.5], "w": 48.8, "h": 9.6, "from": "ring", "words": ["463-", "04-015"]},
+  {"mm": [229.9, 1.7, 254.1, 11.4], "w": 24.2, "h": 9.7, "from": "ring", "words": ["RCELE"]},
+  {"mm": [254.8, 1.9, 264.0, 11.2], "w": 9.3, "h": 9.3, "from": "ring"}
+ ],
+ "text": {
+  "words": 18,
+  "lines": [
+   {"mm": [160.6, 402.2, 170.1, 407.0], "text": "WBS"},
+   {"mm": [185.5, 403.3, 195.8, 406.4], "text": "Wlc 3k"},
+   {"mm": [177.9, 250.9, 198.4, 255.7], "text": "3/4- 0-1/2"},
+   {"mm": [303.3, 69.3, 318.2, 84.2], "text": "86"},
+   {"mm": [275.3, 44.3, 311.1, 76.9], "text": "RSps."},
+   {"mm": [182.7, 65.4, 192.2, 70.2], "text": "PAN"},
+   {"mm": [182.7, 48.1, 191.3, 52.9], "text": "SUB"},
+   {"mm": [255.6, 46.2, 273.8, 49.3], "text": "IssueIDATE"},
+   {"mm": [292.8, 46.9, 307.0, 49.2], "text": "PlYisIY"},
+   {"mm": [237.1, 34.8, 330.3, 41.0], "text": "WBS WARD-BeCk SYSTEMS"},
+   {"mm": [231.2, 28.1, 252.6, 30.5], "text": "@AMECAnT"},
+   {"mm": [286.7, 24.4, 302.5, 29.2], "text": "M463k"},
+   {"mm": [274.2, 18.1, 315.2, 23.7], "text": "SUBMASTER MODUlE"},
+   {"mm": [280.5, 12.5, 309.0, 18.0], "text": "FRONT PANEL"},
+   {"mm": [237.5, 8.2, 247.0, 10.6], "text": "RCELE"},
+   {"mm": [275.7, 3.2, 303.3, 8.8], "text": "463- 04-015"}
+  ]
+ },
+ "title_block": {
+  "mm": [153.8, 26.1, 335.3, 415.6],
+  "from": "title-block words (training set)",
+  "text": ["WBS", "Wlc 3k", "3/4- 0-1/2", "86", "RSps.", "PAN", "SUB", "IssueIDATE", "PlYisIY", "WBS WARD-BeCk SYSTEMS", "@AMECAnT", "M463k"]
+ },
+ "dots": [{"c": [86.5, 221.4], "r": 0.8, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–335 mm across, 0–431 mm up",
+  "- **Outlines:** line 196 rings, 4,419 straight (9,982 mm) / 830 curved (1,291 mm); text 116 rings, 773 straight (908 mm) / 270 curved (362 mm); tb 580 rings, 3,459 straight (5,784 mm) / 1,175 curved (2,343 mm)",
+  "- **Circles and arcs:** 12 circles, 0 arcs; largest r 5.0 @ (86.5, 300.4), r 5.0 @ (86.1, 177.5), r 5.0 @ (86.5, 262.8), r 5.0 @ (86.3, 222.2)",
+  "- **Closed boxes:** 12 (5 in the title block); named: M463k SUBMASTER MODUlE FRONT PANEL; 463- 04-015; RCELE",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 18 in 16 lines: WBS · Wlc 3k · 3/4- 0-1/2 · 86 · RSps. · PAN · SUB · IssueIDATE · PlYisIY · WBS WARD-BeCk SYSTEMS · @AMECAnT · M463k",
+  "- **Title block:** (154, 26)–(335, 416) mm: WBS · Wlc 3k · 3/4- 0-1/2 · 86 · RSps. · PAN · SUB · IssueIDATE · PlYisIY · WBS WARD-BeCk SYSTEMS · @AMECAnT · M463k"
+ ]
+}

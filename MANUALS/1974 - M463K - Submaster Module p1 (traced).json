@@ -1,0 +1,52 @@
+{
+ "drawing": "Modules/SUMMING/M463K/MANUALS/1974 - M463K - Submaster Module.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/7d69401020a93340-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "63"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.4, 0.0, 309.2, 431.8],
+ "outlines": {
+  "line": {"rings": 43, "straight": {"n": 911, "mm": 2786.2}, "curved": {"n": 90, "mm": 140.6}},
+  "text": {"rings": 129, "straight": {"n": 1495, "mm": 2020.6}, "curved": {"n": 356, "mm": 594.0}},
+  "tb": {"rings": 2, "straight": {"n": 123, "mm": 285.1}, "curved": {"n": 10, "mm": 22.0}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 11,
+  "lines": [
+   {"mm": [123.9, 403.7, 287.6, 414.4], "text": "WARD-BECK SYSTEMS LTD"},
+   {"mm": [53.1, 395.5, 285.9, 410.9], "text": "WBS 841 PAOGAESS AVENUE; SCARBOAOUGH; ONTARIO M1H2x4"},
+   {"mm": [123.1, 393.4, 176.0, 399.8], "text": "TeELeX: 085-25399"},
+   {"mm": [210.7, 392.7, 285.2, 398.4], "text": "TELEPHONE: 4181438-6550"},
+   {"mm": [142.5, 242.2, 199.7, 255.2], "text": "M463K"},
+   {"mm": [128.9, 229.3, 211.4, 239.1], "text": "SUBMASTER MODULE"}
+  ]
+ },
+ "title_block": {
+  "mm": [46.4, 387.0, 268.6, 423.2],
+  "from": "title-block words (training set)",
+  "text": ["WARD-BECK SYSTEMS LTD", "WBS 841 PAOGAESS AVENUE; SCARBOAOUGH; ONTARIO M1H2x4", "TeELeX: 085-25399", "TELEPHONE: 4181438-6550"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–309 mm across, 0–432 mm up",
+  "- **Outlines:** line 43 rings, 911 straight (2,786 mm) / 90 curved (141 mm); text 129 rings, 1,495 straight (2,021 mm) / 356 curved (594 mm); tb 2 rings, 123 straight (285 mm) / 10 curved (22.0 mm)",
+  "- **Words (OCR):** 11 in 6 lines: WARD-BECK SYSTEMS LTD · WBS 841 PAOGAESS AVENUE; SCARBOAOUGH; ONTARIO M1H2x4 · TeELeX: 085-25399 · TELEPHONE: 4181438-6550 · M463K · SUBMASTER MODULE",
+  "- **Title block:** (46, 387)–(269, 423) mm: WARD-BECK SYSTEMS LTD · WBS 841 PAOGAESS AVENUE; SCARBOAOUGH; ONTARIO M1H2x4 · TeELeX: 085-25399 · TELEPHONE: 4181438-6550"
+ ]
+}

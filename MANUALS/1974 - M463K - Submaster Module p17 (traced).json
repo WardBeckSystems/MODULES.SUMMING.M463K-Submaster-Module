@@ -1,0 +1,43 @@
+{
+ "drawing": "Modules/SUMMING/M463K/MANUALS/1974 - M463K - Submaster Module.pdf",
+ "page": 17,
+ "version": 1,
+ "trace": "_traces/7d69401020a93340-p17.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "17", "pages": "63"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 331.2, 421.7],
+ "outlines": {
+  "line": {"rings": 27, "straight": {"n": 902, "mm": 2881.3}, "curved": {"n": 88, "mm": 138.4}},
+  "text": {"rings": 69, "straight": {"n": 530, "mm": 684.9}, "curved": {"n": 144, "mm": 225.0}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 6,
+  "lines": [
+   {"mm": [33.9, 411.3, 150.5, 418.2], "text": "WAAD-BECK SYSTEms LTD;"},
+   {"mm": [130.0, 288.2, 151.6, 295.9], "text": "8-109"},
+   {"mm": [153.9, 287.6, 219.6, 296.2], "text": "AMPLIFIER SERIES"},
+   {"mm": [160.8, 10.4, 182.9, 17.8], "text": "8-109"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–331 mm across, 0–422 mm up",
+  "- **Outlines:** line 27 rings, 902 straight (2,881 mm) / 88 curved (138 mm); text 69 rings, 530 straight (685 mm) / 144 curved (225 mm)",
+  "- **Words (OCR):** 6 in 4 lines: WAAD-BECK SYSTEms LTD; · 8-109 · AMPLIFIER SERIES · 8-109"
+ ]
+}

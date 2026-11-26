@@ -1,0 +1,72 @@
+{
+ "drawing": "Modules/SUMMING/M463K/MANUALS/1974 - M463K - Submaster Module (2).pdf",
+ "page": 61,
+ "version": 1,
+ "trace": "_traces/92d57f045fba7ec0-p61.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "61", "pages": "63"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, -0.2, 336.5, 431.8],
+ "outlines": {
+  "line": {"rings": 838, "straight": {"n": 9860, "mm": 17544.7}, "curved": {"n": 2383, "mm": 3342.3}},
+  "text": {"rings": 76, "straight": {"n": 524, "mm": 543.6}, "curved": {"n": 186, "mm": 279.2}}
+ },
+ "circles": [
+  {"c": [201.8, 379.3], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [117.0, 65.3], "r": 2.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [147.1, 154.4], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [130.7, 35.1, 139.0, 39.1], "w": 8.4, "h": 3.9, "from": "ring"},
+  {"mm": [149.2, 35.0, 180.3, 39.1], "w": 31.1, "h": 4.1, "from": "ring"},
+  {"mm": [274.8, 35.6, 278.5, 38.6], "w": 3.7, "h": 3.0, "from": "ring"},
+  {"mm": [149.2, 30.2, 180.3, 34.3], "w": 31.1, "h": 4.1, "from": "ring"},
+  {"mm": [123.9, 20.7, 130.0, 24.8], "w": 6.1, "h": 4.1, "from": "ring"},
+  {"mm": [130.7, 20.7, 139.0, 24.8], "w": 8.4, "h": 4.1, "from": "ring"},
+  {"mm": [139.9, 20.7, 147.9, 24.8], "w": 8.0, "h": 4.1, "from": "ring"},
+  {"mm": [123.9, 16.0, 130.0, 19.9], "w": 6.0, "h": 3.9, "from": "ring"},
+  {"mm": [130.8, 16.0, 139.0, 19.9], "w": 8.3, "h": 3.9, "from": "ring"},
+  {"mm": [149.2, 16.0, 180.1, 19.9], "w": 30.9, "h": 3.9, "from": "ring"},
+  {"mm": [130.8, 11.2, 139.0, 15.3], "w": 8.2, "h": 4.1, "from": "ring"},
+  {"mm": [123.9, 11.2, 130.1, 15.1], "w": 6.2, "h": 3.9, "from": "ring"},
+  {"mm": [254.1, 5.2, 263.4, 12.5], "w": 9.3, "h": 7.3, "from": "ring"},
+  {"mm": [264.5, 5.0, 315.0, 12.4], "w": 50.5, "h": 7.3, "from": "ring"},
+  {"mm": [123.9, 5.6, 130.0, 10.1], "w": 6.0, "h": 4.5, "from": "ring"},
+  {"mm": [130.8, 5.6, 139.0, 10.1], "w": 8.2, "h": 4.5, "from": "ring"}
+ ],
+ "text": {
+  "words": 11,
+  "lines": [
+   {"mm": [149.8, 391.2, 180.7, 396.5], "text": "MID \",E0"},
+   {"mm": [217.6, 391.0, 233.4, 396.3], "text": "00\"~"},
+   {"mm": [199.1, 382.4, 207.3, 386.9], "text": "l!I!>"},
+   {"mm": [155.0, 222.4, 161.7, 227.2], "text": "bO"},
+   {"mm": [196.3, 221.7, 199.9, 228.2], "text": "l1:"},
+   {"mm": [217.2, 222.4, 225.8, 227.2], "text": "12S"},
+   {"mm": [279.6, 65.2, 300.5, 74.3], "text": "ps"},
+   {"mm": [267.9, 53.8, 290.0, 65.3], "text": "BS"},
+   {"mm": [245.5, 31.3, 264.0, 38.5], "text": "tp"},
+   {"mm": [238.4, 24.0, 259.3, 31.2], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 0–432 mm up",
+  "- **Outlines:** line 838 rings, 9,860 straight (17,545 mm) / 2,383 curved (3,342 mm); text 76 rings, 524 straight (544 mm) / 186 curved (279 mm)",
+  "- **Circles and arcs:** 3 circles, 0 arcs; largest r 2.2 @ (201.8, 379.3), r 2.0 @ (117.0, 65.3), r 1.7 @ (147.1, 154.4)",
+  "- **Closed boxes:** 16",
+  "- **Words (OCR):** 11 in 10 lines: MID \",E0 · 00\"~ · l!I!> · bO · l1: · 12S · ps · BS · tp · ht"
+ ]
+}

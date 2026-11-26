@@ -1,0 +1,49 @@
+{
+ "drawing": "Modules/SUMMING/M463K/MANUALS/1974 - M463K - Submaster Module (2).pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/92d57f045fba7ec0-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "63"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.4, 0.0, 310.5, 431.8],
+ "outlines": {
+  "line": {"rings": 121, "straight": {"n": 1788, "mm": 4005.2}, "curved": {"n": 274, "mm": 455.9}},
+  "text": {"rings": 165, "straight": {"n": 1300, "mm": 1722.1}, "curved": {"n": 243, "mm": 400.1}}
+ },
+ "circles": [],
+ "boxes": [{"mm": [280.0, 406.5, 284.1, 410.0], "w": 4.1, "h": 3.5, "from": "ring"}],
+ "text": {
+  "words": 17,
+  "lines": [
+   {"mm": [47.3, 394.4, 174.0, 411.2], "text": "['NelS] T'E1.£x oee- a538lI"},
+   {"mm": [122.6, 404.6, 285.0, 412.0], "text": "WARD-BECK SYSTE MS LTD"},
+   {"mm": [165.6, 398.1, 281.7, 403.4], "text": "......-.e.~CINT......-o\"\"\"'i!"},
+   {"mm": [142.9, 242.2, 198.2, 252.3], "text": "M463K"},
+   {"mm": [130.8, 230.1, 210.7, 236.4], "text": "SUBMAS TER MODULE"},
+   {"mm": [278.7, 65.0, 299.7, 74.1], "text": "ps"},
+   {"mm": [267.1, 53.5, 288.9, 65.1], "text": "BS"},
+   {"mm": [244.8, 31.1, 263.4, 38.3], "text": "tp"},
+   {"mm": [237.5, 24.0, 258.4, 31.2], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–310 mm across, 0–432 mm up",
+  "- **Outlines:** line 121 rings, 1,788 straight (4,005 mm) / 274 curved (456 mm); text 165 rings, 1,300 straight (1,722 mm) / 243 curved (400 mm)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 17 in 9 lines: ['NelS] T'E1.£x oee- a538lI · WARD-BECK SYSTE MS LTD · ......-.e.~CINT......-o\"\"\"'i! · M463K · SUBMAS TER MODULE · ps · BS · tp · ht"
+ ]
+}
