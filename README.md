@@ -13,6 +13,176 @@ Ward-Beck Systems M463K, 1974|7. Wiki page: [M463K on WBSps.ca](https://wardbeck
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 14 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 66 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [1 topic](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [1974 - M463K - P003 - 1-1.jpg](MANUALS/1974%20-%20M463K%20-%20P003%20-%201-1.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Gain** | Unity +/ -0.5 dB _ (With fader dB &quot;in-hand&quot; position. |
+| **Frequency response** | +/ -25 dB from 20 Hz kHz _ (Equalizer in bypass position. |
+| **Noise** | dB below -10 dBm nominal output level (20 Hz to 20 kHz) |
+| **Harmonic distortion** | Less than 0.25% from Hz 20 kHz +28 dBm less Typically less than 0.05% across most bandwidth) |
+| **Source impedances** | Summing 30,000 ohms balanced Direct: 600 ohms less balanced |
+| **Sum mingless than direct** | 000 ohms ohms |
+| **Output impedance** | Less than 100 ohms (at outputs 8-109A amplifiers only 8-109 |
+| **Load impedance** | 600 ohms balanced and DIRECT output). (at insertion point |
+| **Output level** | dBm nominal insertion. ~10 dBm nominal DIRECT output _ +28 dBm maximum (at outputs 8-109 8_109A amplifiers only) |
+| **Phasing** | Input and output terminals designated by numbers are phase. |
+| **Power requirements** | volts dc, 100 MA nominal 300 MA maximum |
+| **Ambient temperature** | 60 degrees Celsius |
+| **Dimensions** | wide 14.5&quot; high 6.5&quot; deep (41 Mm 360 mm 165 Mm) |
+
+## Circuit description
+
+From [1974 - M463K - Submaster Module (2).pdf](MANUALS/1974%20-%20M463K%20-%20Submaster%20Module%20(2).pdf) pages 4-9 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+The MA63K is a combination SUB MASTE R/E QUAL IZ ER mod u lr, designed 10 acceP I combined or mixed feeds from previously &quot;ss igned mixing c h&quot;n ne l Inputs. As maybe required, the unit p!'&quot;Oc e sses the mixed signal, equalizes it and routes it to thea p prop r ia te points wil hint h eco nsol e system..
+
+Inpul and Summing A m~
+
+The signal o r l g n ati n g from the e&quot;, t e r n&quot;, 1 m i &quot;, ing nelwork is applied 10 the edge cc n nec tor PI, pins 1 and A and subs e q u e n l l y. conn ecls tot hes u mming current nodes oft h e 4 _141 summing &quot;m pilfi e r. to facilitate module l esl l ng, a direct i npul isp ro v ide don PI, pins 17 and U..
+
+EQUALIZER Section
+
+The OUl put oft h e 4 -141 summing amplifier is !'&quot;Ou ted 10 one of the normally closed c cote ct s of Ih e EOUALIZER INSERTs w i lc h SW13 to allow bypassing oft h e equalizer. Addilionally, the A_141 output is fed t o Zl, t tte first o f four cascaded summing amplifiers Zl I h rough
+
+Zl I hl'&quot;Ough Z4 serve a s mixing and ISOlation amplifiers. They &quot;' reused 10 mix the p dma r y input signal wilh a c or rec lion signal derived from the outputs of I h e 4 -126 lilt er networks, result ing in raising o r lowering the level o f s el e c led p o rlion s of I h e audio spectrum. Additionally, they isolate the filler networks from each ol hera nd p rev en lint eraction between them, resulting inaccurate and repeal able equalizing performance.
+
+The CUT/ eOO ST controls R21, 1'122 and 1'123 feed ani n -ph a se o r ou to f phase prop o rti o n a l sign ll l to Ihe buffer amplifiers ZS, Z6 lind Z8 respective l y. The level o f the sign ll l fed to thebu fl e r s;5 depend e n ton the CUT/ BOOST con lro l selling wilh mllx imum level occurring ate i the rend o f I hep otentiom eter, and a null selling all hep ot e n t io_ meter m i d_pos i t ion. Full clockwise o r full c ou n lel'&quot;Clock wise pOle nti o~ meIer se ni ngs will result int h e ma &quot;, imum equalization o f +15 dB
+
+and -15 dB respect iv ely.
+
+The outputs of buffer amplifiers Z5, Z6 and Z8 are routed to the
+
+4 -1 26 printed ci l'&quot;Cui t board which contains three ban dp ass filters corresponding to each o f the three sections o f I heequaliz er.
+
+The HIGH FREQUENCY secuen o f lhe unil provides SHELVING TYPE of eQ u all z a llon. R21 d e lermi ne s Ihe amounl of CUT 0.- BoOST w llh a lOla I,.ange from -15 10 ·15 dB. F,.equ e n c y is conli n u ou sly adjustable from 1.6 10 2S kHz by Rl /R2. The ff'eQu ency cal lb,.ali on ~fe r-s 10 lhe 3 dB rolloff po inl &quot;, hen lhe un ll is ope,.at inge t Ihe ma&quot; i&quot;,um available CUT 0.- BOOST of I S dB..
+
+The MtD FREQUENCY e qua liza t ion 1$ adjusted by R. /R5, c ov e,.ing a f,.eq u e n c y range f.-om 0.4 10 6 •• kHz. CUT/BOOST i s control led by R22. R6 adjus ls thee re cree, P osll ive or neg allve b el l-shaped PEA I(INGe qua liza lion Is applicable In Ih e mid-f r equency ran ~.
+
+The LOW FREQUENCY eQual i z a lion OPe r,., tess im ila r ly 10 the high frequency s&quot;&quot;, t ion. R7/R8 lIdJu st s the frequency r llng e from 25 to 400 Hz while R23 controls CUT or BOOST.
+
+T h&quot; threes ig n a ls which leave Ih e 4 -1 26 filter are &quot;ce-eeeuce signals &quot; ell her in-ph a s e or 18 0 degrees out-of-pha se wl lh Ih e equalize r inp UI and b andpa s s limited as deler m ln e d by thee qua l - Izer section &quot; nd control Settings. These &quot;eo-reeuee signals &quot; are then summed together with the primary (Inpu~J signal b y the operational amplifier s 2 1, 22 and 24 thus forming the equalized OUtput signal.
+
+This Con Cepl of adding III cce -ecttce signal loget her &quot;, llh Ih e Incoming signal to form l he equalized signal i s direcl ly ~sp onsi b le f o.the low noise and diS IOt'l ion capabilities of I h ls u n ll.
+
+The compound signal as generated along the entire processing chain a ppear-s a l Ihe output o f 2 • • From h.....e It i s roul ed 10 one o f lhe no.-ma l ly open contaCl s o f the EQUALI2ER INSERTs witch SWI 3.
+
+ThUS, with SWi3 depressed, Ih e equalized signal is fed to Ih e OUlp u tamp lifi e r 8-109A. Ina ddit ion, a s SWi3 Is depressed, l he LEO Indic a tOt' Is activated.
+
+8 -1ogA Output Ampl ifi..... and INSERT
+
+The 8 -109A amplifier raises rb e signal to -10 dBm nominally. The
+
+output Is active l y balanced and fed 10 the &quot;inserl p olnl&quot; 111.1 pins 2 2
+
+and 2 of module eeeoee ree P i. This point is usually connected t o II. ' n o.-m ll.l led ' se l o fin sert Jacks, with the OUIPUI side conn ec ted t o
+
+Ihe sub maS l e r fad er.
+
+PREF A DELI ST EN (PF L)
+
+The b,-i dg ing takeoff f o,t he PFL output is picked up a t t heou l put side of SW2 1.
+
+The StJB ON switch SW2 1 con tr&quot;&lt;lls all outputs of the modUle with I he except ion of the PFL output.
+
+The oUt pu l o f the balanced fad e,i s,-etu,-n ed to Ih e module via pins 14 and R o f Pl. The feed fo,th e PREFACE FO L OBA CK (F B), the PREFACE STAGE AMPLIFIER (SAl and the PRE FAO E PUBLIC ADDRESS (PAl channels is br&quot;&lt;lugh lout atP I, pins 20 and)(and 0&quot;; gi nale5 normally from the input side oft h e tee er •
+
+**SLATING**
+
+. An external slate input is pr&quot;&lt;lvid c dat conn ec,to,- P2, pins 8 and J. The slates ig n al is injected;n place of the '-eg ul a r signal when ~:~: r. K l is activated. Trim pot R l 4 2 serves to calibrate Ih e si ale
+
+8 -109Booste rAm~
+
+This amplifier operates with II gain of I S dB. It recovers the lSd B &quot; i n hand &quot; loss incurred by the fade r.
+
+A DIRECT output fr&quot;&lt;lm the 13-109 amplifier i s pr&quot;&lt;lvi de dat corvrec torP2, pins 12 and N.
+
+Master Outputs and PAN Control
+
+Two lef land two,-i g ht outputs area ls o fed b y the 13-109 output
+
+signal. They e r-e routed via PANs witch SWl4 lind PAN control R24 10
+
+R2 7. followed by four MASTER ASSIGNMENT SWITCHES SW22 to SW25. The
+
+ma Sl er OUlpu ts are connected 10 thea p prop r i ale module out pu l t..,-mi n a l s v 1a summing network resistors to b e combined with feeds fr&quot;&lt;lm
+
+other sub master mixing channels.
+
+Au x i liar yOu tp uts
+
+I n ~ d d l ti o n.... SOLO output is av ~ i labl e via SWI6, to ~ l low setec tlve monitoring o f the p ~ r t 1c ul ~r $u b master channel. Other feeds originating from the 8-109 amplifier are supplied to the P OSTF AOE F B. SA and PA cx enners, '
+
+PRE/POS T Selector Switches and Leve! Controls
+
+PRE/POS T selection oft h e SA, F Band P A ch ~nnel sis r ec turered b y switChes SWI8, SWI9, S W20 and SW4 resp e cti v e l y; each switCh Is followed b y its associated level control. The outputs o f the le ve i controls ~ ref edt o the summing outputs via;ndi'vidu~1 assignments witches. Following the assignments witChes, t h e&quot;&quot;, outputs are fed to their appropriate mixing buses vi ~ summing resistors.
+
+Auxiliary Control Functions
+
+DC control contacts are provided on the SOLO &quot; nd P A &quot;ss i g n men t. switChes to permit ex tern ~1 muting a ods e l e c ti v eco n lNl I functions &quot;s maybe required.
+
+Power Supply Oecoupl ing
+
+An active power supply d ecoupli ng network consisting of 0 1 through 06 provides a high degree o f isolation between the M46 3K and the +/-25 volts u p ply rails. The t r~ n s i Slor s 05 and 0 6 serve as the current monilors ~ n d w111 limit the current flowing through the pass trans iSl o r s 03 and Q4 1n the event that excessive powers u p ply dem ~nds shOUld a -tee a s a result o f component f &quot; ilur e.
+
+**FREOUENCY RESPONSE CHARACTER1ST I CS**
+
+.&quot; III ! I!
+
+**., I ! I'**
+
+I, I I -, i I LOW FREQUENCY section CUT/ BOOST: t IS dB.
+
+FREQUENCY; 25 &amp; 400 Hz.
+
+**III I I**
+
+&quot;&quot;. ~&quot;' II'&quot; ~ilOk4(llo,
+
+**:1 I**
+
+I ' i Iii 1., I I / I I iii \(I,. III IIi i ~1 1 !li,). 1 -, I: i Iii vii 'lll)&quot;
+
+**III**
+
+1\1I lli III, i !II: / i!
+
+MID FREQUENCY section -,
+
+I I,,Q l i\i I I!I',, ! II
+
+CUT/BOOST: t I S ae. -a
+
+**I: P!, \ ' I'I!I**
+
+FREQUENCY: 0.4 &amp; 6.4 kHz. ! j !, Q: 2.
+
+l 00 ~ 1,~ 10_ 10.JOI,&lt;OO
+
+**FREQUENCY RESPONSE CHARACTERISTICS**
+
+H46}1e SUBHASTER MQQULE
+
+**'II IIIII.I'**
+
+HIGH FREOUENCY section
+
+CUT/BOOS T: tI S d B.
+
+FREQUENCY: 1.6 &amp; 25 kHz.
+
+</details>
+
+<!-- /module data -->
+
 ## Mechanical
 
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._
