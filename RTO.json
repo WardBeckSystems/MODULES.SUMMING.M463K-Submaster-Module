@@ -7,283 +7,6 @@
  "verified": null,
  "derived": false,
  "variant_of": null,
- "pins": [
-  {
-   "pin": "1",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463K/MANUALS/1974 - M463K - Submaster Module (2).pdf",
-   "page": 45
-  },
-  {
-   "pin": "3",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463K/SCHEMATICS/1974 - M463K - 463-02-010 - SUB MASTER MODULE EKO.jpg",
-   "page": 1
-  },
-  {
-   "pin": "3",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463K/SCHEMATICS/1974 - M463K - 463-02-010 - SUB MASTER MODULE EKO.jpg",
-   "page": 1
-  },
-  {
-   "pin": "4",
-   "signal": "OUTPUTS",
-   "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463K/SCHEMATICS/1974 - M463K - 463-02-010 - SUB MASTER MODULE EKO.jpg",
-   "page": 1
-  },
-  {
-   "pin": "5",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463K/SCHEMATICS/1974 - M463K - 463-02-010 - SUB MASTER MODULE EKO.jpg",
-   "page": 1
-  },
-  {
-   "pin": "06",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463K/MANUALS/1974 - M463K - Submaster Module (2).pdf",
-   "page": 2
-  },
-  {
-   "pin": "6",
-   "signal": "RIGHT OUTPUTS",
-   "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463K/SCHEMATICS/1974 - M463K - 463-02-010 - SUB MASTER MODULE EKO.jpg",
-   "page": 1
-  },
-  {
-   "pin": "7",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463K/SCHEMATICS/1974 - M463K - 463-02-010 - SUB MASTER MODULE EKO.jpg",
-   "page": 1
-  },
-  {
-   "pin": "12",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463K/MANUALS/1974 - M463K - Submaster Module.pdf",
-   "page": 43
-  },
-  {
-   "pin": "12",
-   "signal": "OUTPUT",
-   "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463K/SCHEMATICS/1974 - M463K - 463-02-010 - SUB MASTER MODULE EKO.jpg",
-   "page": 1
-  },
-  {
-   "pin": "13",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463K/MANUALS/1974 - M463K - Submaster Module.pdf",
-   "page": 41
-  },
-  {
-   "pin": "18",
-   "signal": "CTL COM",
-   "kind": "ground",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463K/SCHEMATICS/1974 - M463K - 463-02-010 - SUB MASTER MODULE EKO.jpg",
-   "page": 1
-  },
-  {
-   "pin": "19",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463K/MANUALS/1974 - M463K - P038 - LB463-02-010 001.jpg",
-   "page": 1
-  },
-  {
-   "pin": "20",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463K/MANUALS/1974 - M463K - P038 - LB463-02-010 001.jpg",
-   "page": 1
-  },
-  {
-   "pin": "21",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463K/MANUALS/1974 - M463K - P038 - LB463-02-010 003.jpg",
-   "page": 1
-  },
-  {
-   "pin": "21",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463K/MANUALS/1974 - M463K - P038 - LB463-02-010 001.jpg",
-   "page": 1
-  },
-  {
-   "pin": "22",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463K/MANUALS/1974 - M463K - P038 - LB463-02-010 001.jpg",
-   "page": 1
-  },
-  {
-   "pin": "D",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463K/SCHEMATICS/1974 - M463K - 463-02-010 - SUB MASTER MODULE EKO.jpg",
-   "page": 1
-  },
-  {
-   "pin": "F",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463K/SCHEMATICS/1974 - M463K - 463-02-010 - SUB MASTER MODULE EKO.jpg",
-   "page": 1
-  },
-  {
-   "pin": "N",
-   "signal": "OUTPUT",
-   "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463K/SCHEMATICS/1974 - M463K - 463-02-010 - SUB MASTER MODULE EKO.jpg",
-   "page": 1
-  },
-  {
-   "pin": "T",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463K/SCHEMATICS/1974 - M463K - 463-02-010 - SUB MASTER MODULE EKO.jpg",
-   "page": 1
-  },
-  {
-   "pin": "U",
-   "signal": "SUB TALLY",
-   "kind": "control",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463K/MANUALS/1974 - M463K - P038 - LB463-02-010 003.jpg",
-   "page": 1
-  },
-  {
-   "pin": "W",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463K/MANUALS/1974 - M463K - P038 - LB463-02-010 003.jpg",
-   "page": 1
-  },
-  {
-   "pin": "X",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463K/MANUALS/1974 - M463K - P038 - LB463-02-010 003.jpg",
-   "page": 1
-  },
-  {
-   "pin": "Y",
-   "signal": "+24V",
-   "kind": "power",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463K/MANUALS/1974 - M463K - P038 - LB463-02-010 003.jpg",
-   "page": 1
-  }
- ],
  "straps": [],
  "power": [],
  "sources": [
@@ -293,5 +16,210 @@
   "Modules/SUMMING/M463K/MANUALS/1974 - M463K - Submaster Module (2).pdf",
   "Modules/SUMMING/M463K/MANUALS/1974 - M463K - Submaster Module.pdf",
   "Modules/SUMMING/M463K/SCHEMATICS/1974 - M463K - 463-02-010 - SUB MASTER MODULE EKO.jpg"
- ]
+ ],
+ "pins": [
+  {
+   "connector": "J4",
+   "pin": "1",
+   "signal": "",
+   "kind": "unread",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "J6",
+   "pin": "06",
+   "signal": "",
+   "kind": "unread",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "3",
+   "signal": "",
+   "kind": "unread",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "7",
+   "signal": "",
+   "kind": "unread",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "12",
+   "signal": "",
+   "kind": "unread",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "21",
+   "signal": "",
+   "kind": "unread",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "3",
+   "signal": "",
+   "kind": "unread",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "4",
+   "signal": "OUTPUTS",
+   "kind": "out",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "5",
+   "signal": "",
+   "kind": "unread",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "6",
+   "signal": "RIGHT OUTPUTS",
+   "kind": "out",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "12",
+   "signal": "OUTPUT",
+   "kind": "out",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "13",
+   "signal": "",
+   "kind": "unread",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "18",
+   "signal": "CTL COM",
+   "kind": "ground",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "19",
+   "signal": "",
+   "kind": "unread",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "20",
+   "signal": "",
+   "kind": "unread",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "21",
+   "signal": "",
+   "kind": "unread",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "22",
+   "signal": "",
+   "kind": "unread",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "D",
+   "signal": "",
+   "kind": "unread",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "F",
+   "signal": "",
+   "kind": "unread",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "N",
+   "signal": "OUTPUT",
+   "kind": "out",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "T",
+   "signal": "",
+   "kind": "unread",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "U",
+   "signal": "SUB TALLY",
+   "kind": "control",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "W",
+   "signal": "",
+   "kind": "unread",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "X",
+   "signal": "",
+   "kind": "unread",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "Y",
+   "signal": "+24V",
+   "kind": "power",
+   "port": null,
+   "polarity": null
+  }
+ ],
+ "built_from": {
+  "synthesized": "tools/symbol_synth.py in WBSps.ca from Engineering/IO/M463K.pins.json"
+ }
 }
