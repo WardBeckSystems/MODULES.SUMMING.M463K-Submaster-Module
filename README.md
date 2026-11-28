@@ -191,6 +191,14 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVnFhTl9qUXdjN2M/view?resourcekey=0-sTK9rCY1RIVXz6_Vyzphqg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVnFhTl9qUXdjN2M&resourcekey=0-sTK9rCY1RIVXz6_Vyzphqg" width="240" alt="1974 - M463K - 463-04-015 - ENG SUBMA STER MODULE.jpg"></a><br><sub>1974|7 · 463-04-015 - ENG SUBMA STER MODULE · <a href="MECHANICAL/1974%20-%20M463K%20-%20463-04-015%20-%20ENG%20SUBMA%20STER%20MODULE%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKV1RYUlpFRkxsb3c/view?resourcekey=0-_p7oA58xLEZmwH6HJ-0nPA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKV1RYUlpFRkxsb3c&resourcekey=0-_p7oA58xLEZmwH6HJ-0nPA" width="240" alt="1974 - M463K - 463-04-016 - OUTPUT AMP UPPER LEGEND.jpg"></a><br><sub>1974|7 · 463-04-016 - OUTPUT AMP UPPER LEGEND · <a href="MECHANICAL/1974%20-%20M463K%20-%20463-04-016%20-%20OUTPUT%20AMP%20UPPER%20LEGEND%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKMTJPeE1IejlfTk0/view?resourcekey=0-FWL6hgMZkgRB4dLJxlwaHg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKMTJPeE1IejlfTk0&resourcekey=0-FWL6hgMZkgRB4dLJxlwaHg" width="240" alt="1979 - M463K - 463-04-016 - CONTROL COM X-ZO.jpg"></a><br><sub>1979|12 · 463-04-016 - CONTROL COM X-ZO · <a href="MECHANICAL/1979%20-%20M463K%20-%20463-04-016%20-%20CONTROL%20COM%20X-ZO%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
+## 3-D model
+
+[`MECHANICAL/M463K.stl`](MECHANICAL/M463K.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M463K)
+
+- **Size:** 41 × 360 mm panel, 165 mm deep, 3.2 mm plate (TECHNICAL DATA: wide 14.5" high 6.5" deep (41 Mm 360 mm 165 Mm))
+- **From the drawing:** 28 holes and cut-outs, 1 knobs (front panel: `MECHANICAL/M463K - front panel.svg`)
+- Made by `tools/module_models.py` (→ `MECHANICAL/M463K.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
