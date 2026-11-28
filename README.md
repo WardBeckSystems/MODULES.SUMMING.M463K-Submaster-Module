@@ -4,13 +4,12 @@ Ward-Beck Systems M463K, 1974|7. Wiki page: [M463K on WBSps.ca](https://wardbeck
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 85 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 14 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 11 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 420 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 2 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 21 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 84 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 15 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 10 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 419 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 20 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 66 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -213,8 +212,6 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKb1daZFlKU1RRSGM/view?resourcekey=0-08ggQSH3dVT3rM-bvaofKg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKb1daZFlKU1RRSGM&resourcekey=0-08ggQSH3dVT3rM-bvaofKg" width="240" alt="1974 - M463K - 8-109-06-002 - RAS COMPONENT LAYOUT.jpg"></a><br><sub>1974|7 · 8-109-06-002 - RAS COMPONENT LAYOUT · <a href="SCHEMATICS/1974%20-%20M463K%20-%208-109-06-002%20-%20RAS%20COMPONENT%20LAYOUT%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVXlOMTNjSHNmMVk/view?resourcekey=0-2xu8AYykKJGb8wEaB41LRQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVXlOMTNjSHNmMVk&resourcekey=0-2xu8AYykKJGb8wEaB41LRQ" width="240" alt="1974 - M463K - 8-109-06-002.jpg"></a><br><sub>1974|7 · 8-109-06-002 · <a href="SCHEMATICS/1974%20-%20M463K%20-%208-109-06-002%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `19xx - 4-126-02-001.jpg`
-
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
@@ -222,8 +219,6 @@ _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and r
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKdm5WanZiM3ZpNVE/view?resourcekey=0-j8f4V73r_CYsJ9yeUE7__w" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKdm5WanZiM3ZpNVE&resourcekey=0-j8f4V73r_CYsJ9yeUE7__w" width="240" alt="1974 - M463K - 461-03-015 - NOTES LEGEND CONNECTOR PIN MOUNTED.jpg"></a><br><sub>1974|7 · 461-03-015 - NOTES LEGEND CONNECTOR PIN MOUNTED · <a href="PINOUTS/1974%20-%20M463K%20-%20461-03-015%20-%20NOTES%20LEGEND%20CONNECTOR%20PIN%20MOUNTED%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-Not on Google Drive yet: `M463K - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
@@ -302,7 +297,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1974 - M463K - Submaster Module p57.kicad_sch](KICAD/1974%20-%20M463K%20-%20Submaster%20Module%20p57.kicad_sch)
 - [19xx - 4-126-02-001.kicad_sch](KICAD/19xx%20-%204-126-02-001.kicad_sch)
 - [M463K.kicad_sym](KICAD/M463K.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
