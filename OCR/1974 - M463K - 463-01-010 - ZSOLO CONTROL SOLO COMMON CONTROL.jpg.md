@@ -1,5 +1,5 @@
 # 1974 - M463K - 463-01-010 - ZSOLO CONTROL SOLO COMMON CONTROL.jpg
-Wiki page: [M463K](../../../../PAGES/M463K.md)
+Wiki page: [M463K](../)
 
 
 - **Year:** 1974 (module estimate (labelled))

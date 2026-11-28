@@ -1,5 +1,5 @@
 # 1974 - M463K - 4-136-06-018 - PIN LISSCOD ICKD USED.jpg
-Wiki page: [M463K](../../../../PAGES/M463K.md)
+Wiki page: [M463K](../)
 
 
 - **Year:** 1974 (module estimate (labelled))

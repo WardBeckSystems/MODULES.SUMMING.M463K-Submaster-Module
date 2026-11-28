@@ -1,5 +1,5 @@
 # 1974 - M463K - 461-03-015 - NOTES LEGEND CONNECTOR PIN MOUNTED.jpg
-Wiki page: [M463K](../../../../PAGES/M463K.md)
+Wiki page: [M463K](../)
 
 
 - **Year:** 1974 (module estimate (labelled))

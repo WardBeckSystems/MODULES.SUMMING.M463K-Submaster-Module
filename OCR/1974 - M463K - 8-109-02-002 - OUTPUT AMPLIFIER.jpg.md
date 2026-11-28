@@ -1,5 +1,5 @@
 # 1974 - M463K - 8-109-02-002 - OUTPUT AMPLIFIER.jpg
-Wiki page: [M463K](../../../../PAGES/M463K.md)
+Wiki page: [M463K](../)
 
 
 - **Year:** 1974 (module estimate (labelled))

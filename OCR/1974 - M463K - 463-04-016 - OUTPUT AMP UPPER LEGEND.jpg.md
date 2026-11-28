@@ -1,5 +1,5 @@
 # 1974 - M463K - 463-04-016 - OUTPUT AMP UPPER LEGEND.jpg
-Wiki page: [M463K](../../../../PAGES/M463K.md)
+Wiki page: [M463K](../)
 
 
 - **Year:** 1974 (module estimate (labelled))

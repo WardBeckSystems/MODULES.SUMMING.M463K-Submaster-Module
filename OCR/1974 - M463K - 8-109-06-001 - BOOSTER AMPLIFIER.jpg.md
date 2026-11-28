@@ -1,5 +1,5 @@
 # 1974 - M463K - 8-109-06-001 - BOOSTER AMPLIFIER.jpg
-Wiki page: [M463K](../../../../PAGES/M463K.md)
+Wiki page: [M463K](../)
 
 
 - **Year:** 1974 (module estimate (labelled))
